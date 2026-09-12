@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey there, I'm Ajit Singh (@ajtze) 👋
 
-<!--
-**ajtze/ajtze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Building things on the web & always learning something new
+🛠️ Currently exploring different web projects and sharpening my skills
+🌱 Curious mind, constantly upgrading
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Check out my pinned projects below! ⬇️
+
+---
+
+### 📬 Let's Connect
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+](https://instagram.com/ajtze)
+
+---
+
+⭐️ From [ajtze](https://github.com/ajtze)
