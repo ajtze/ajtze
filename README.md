@@ -1,4 +1,4 @@
-# Hey there, I'm Ajit Singh (@ajtze) 👋
+# Hey there, I'm AJITSINGH (@ajtze) 👋
 
 🚀 Building things on the web & always learning something new
 🛠️ Currently exploring different web projects and sharpening my skills
